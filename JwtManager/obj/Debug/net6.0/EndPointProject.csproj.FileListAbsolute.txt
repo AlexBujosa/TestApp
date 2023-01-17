@@ -1,0 +1,258 @@
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\appsettings.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\EndPointProject.exe
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\EndPointProject.deps.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\EndPointProject.runtimeconfig.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\EndPointProject.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.csproj.AssemblyReference.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.AssemblyInfoInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.AssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.csproj.CoreCompileInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\scopedcss\bundle\EndPointProject.styles.css
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.csproj.CopyComplete
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\refint\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\EndPointProject.genruntimeconfig.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\obj\Debug\net6.0\ref\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\DnsClient.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Snappier.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\EndPointProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\appsettings.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\EndPointProject.exe
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\EndPointProject.deps.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\EndPointProject.runtimeconfig.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\EndPointProject.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\EndPointProject.pdb
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\DnsClient.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Snappier.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.csproj.AssemblyReference.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.AssemblyInfo.cs
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\scopedcss\bundle\EndPointProject.styles.css
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.csproj.CopyComplete
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\refint\EndPointProject.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.pdb
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\EndPointProject.genruntimeconfig.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\obj\Debug\net6.0\ref\EndPointProject.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\JWT.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\appsettings.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.exe
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.deps.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.runtimeconfig.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.pdb
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\DnsClient.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\JWT.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Snappier.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.AssemblyReference.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.AssemblyInfo.cs
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\scopedcss\bundle\EndPointProject.styles.css
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.CopyComplete
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\refint\EndPointProject.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.pdb
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.genruntimeconfig.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\JwtManager\obj\Debug\net6.0\ref\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\appsettings.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.exe
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.deps.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.runtimeconfig.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\EndPointProject.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\DnsClient.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\JWT.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Snappier.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.AssemblyReference.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.AssemblyInfoInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.AssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.CoreCompileInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\scopedcss\bundle\EndPointProject.styles.css
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.CopyComplete
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\refint\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\EndPointProject.genruntimeconfig.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\obj\Debug\net6.0\ref\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\JwtManager\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\appsettings.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\EndPointProject.exe
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\EndPointProject.deps.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\EndPointProject.runtimeconfig.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\EndPointProject.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\DnsClient.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\JWT.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Snappier.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.AssemblyReference.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.AssemblyInfoInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.AssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.CoreCompileInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\scopedcss\bundle\EndPointProject.styles.css
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.csproj.CopyComplete
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\refint\EndPointProject.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\EndPointProject.genruntimeconfig.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\testapp\JwtManager\obj\Debug\net6.0\ref\EndPointProject.dll

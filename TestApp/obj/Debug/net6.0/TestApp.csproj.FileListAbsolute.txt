@@ -1,0 +1,65 @@
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\appsettings.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.exe
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\scopedcss\bundle\TestApp.styles.css
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.csproj.CopyComplete
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+C:\Users\alexb\Desktop\Lenguajes de Programacion\c#\test\test\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\appsettings.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.exe
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\scopedcss\bundle\TestApp.styles.css
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.csproj.CopyComplete
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\any_c\OneDrive\Desktop\Lenguajes\c#\test\test\TestApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
